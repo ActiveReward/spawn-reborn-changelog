@@ -1,0 +1,39 @@
+1 - changed the hardness of - Thunderstoneore.
+2 - changed the hardness of - Abyssiumore.
+3 - changed the hardness of - Jadeitestoneore.
+4 - Added a new achivement for the warden block.
+5 - Added a new Wand ( Old wand )
+6 - Added a new item ( Rune brick )
+7 - fixed a issue with ore generation of Jadeite.
+8 - Added new item: Artic Jewel Crystal.
+9 - Added new item: Artic Jewel.
+10 - Added new item: Artic Jewel Amulet.
+11 - Added new item: Diamond Scrap.
+12 - Added new achievements for in game. 
+13 - Added a new mob: Diamond creeper.
+14 - Added a new ore block: Artic Jewel Ore.
+15 - Added a new mob: Infected Sculk Creeper.
+16 - Added new ore: ShadowQuartz Ore.
+17 - Added new ore: Netherite Quartz.
+18 - Added a new mob: Netherite creeper.
+19 - Added a new ore: Netherite Diamond.
+20 - Added a new item: Netherite star.
+21 - Added a new ore block: Netherite quartz block.
+22 - Added a new mob: Glowing creeper.
+23 - Added a new mob: Dark evil witch.
+24 - Fixed a crash with the wither ingot.
+25 - Added a new mob: Herobrine.
+26 - Added a new mob: Zombie herobrine
+27 - Nurfed the ore generation of: Colralium ( end )
+28 - Added a lot of new recepts for in game.
+29 - Made the coralium block glow!
+30 - Fixed a bug with generation the wither ore. THANKS @MisterGamerDeveloper 
+31 - Added a new mob: Ocean Husk.
+32 - Added a new mob: Glowing cave spider.
+33 - added a new mob: Taige cow.
+34 - Added a new mob: Bison.
+35 - Added a new mob: Sculk spider.
+36 - Added a new mob: Demon silverfish
+37 - Added a new mob:Armored piglin.
+38 - Added a new mob: Winter zombie.
+39 - Added a new mob: soul creeper.
